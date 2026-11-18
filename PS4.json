@@ -1,0 +1,540 @@
+{
+  "name": "GFS Catalog-ps4",
+  "packages": [
+    {
+      "titleId": "CUSA08133",
+      "title": "Mars Alive",
+      "version": "1.01",
+      "sizeBytes": 1685774664,
+      "posterUrl": "https://image.api.playstation.com/cdn/UP2844/CUSA14979_00/sb3GOeReg1aNuovMG8Hi95RMAixDb1P6.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/kzf5apvsp0wy"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/ppZNKSYFJR"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA09049",
+      "title": "Lunar Stone Origin of Blood",
+      "version": "1.06",
+      "sizeBytes": 1793148846,
+      "posterUrl": "https://image.api.playstation.com/cdn/UP1496/CUSA11279_00/IVe4fF81g6r6dBL9KEYkf8lJPoOeObFY.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/wujax1rfceqh"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/KVB2UFOxt8"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA09412",
+      "title": "Dark Legion",
+      "version": "1.0",
+      "sizeBytes": 1610612736,
+      "posterUrl": "https://image.api.playstation.com/cdn/UP1496/CUSA12194_00/TPyzPwmzz0UJboGltHb3SPVt4HUmoT32.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/eyg4vlvhg8gj"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/g7lIXGWOqZ"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA53574",
+      "title": "Bendy - Lone Wolf",
+      "version": "01.03",
+      "sizeBytes": 2254857830,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0719/02cf001ae29d69ad3806b7ffa27b731010f2532a772121d0.png",
+      "downloadLinks": [
+        {
+          "name": "Archive",
+          "url": "https://archive.org/details/qmvuzhkgtg9uzsbxb2xmievvicsgugf0y2ggkenvu0e1mzu3nck"
+        },
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/gtz8nyhfaojm"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/X04nmoKfi2"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA57722",
+      "title": "Chorus of Carcosa",
+      "version": "1.03",
+      "sizeBytes": 10114647982,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1215/fd88a2c2943751f28b7a1454df4d01a0d82e429363f63981.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/f8uzjge4fivd"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/zi4lsnD7f6"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA53342",
+      "title": "Absolum",
+      "version": "1.10",
+      "sizeBytes": 4187593114,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2508/078ca2941382feb3b34ff293315c51ef1885b3015fe41cba.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/ca4ocqus9bim"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/qwzXUGCoL5"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA41456",
+      "title": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
+      "version": "1.03",
+      "sizeBytes": 8912057139,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2909/1b4283865a6be75932835a58f1ea80d650dfa179872fad37.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/i3vrsb7jpz1i"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/ok6XM3pFZp"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA17421",
+      "title": "Fujii",
+      "version": "1.01",
+      "sizeBytes": 763430437,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0920/7056d1a6ebea4a54acb244fc4e8b29d1ede3fb0ba3304ab7.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/uvf13mpj01h8"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/TbsFhuS8IE"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA15739",
+      "title": "Telefrag VR",
+      "version": "1.11",
+      "sizeBytes": 12713103196,
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA15739_00/2/i_27f3527d706a406cd4b6b0e3d45e409d744e39736a12660d36dc7f70093cbb5c/i/pic0.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/wou5cxznpxyo"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/f66DldHRNr"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA14845",
+      "title": "Darkness Roller Coaster Ultimate Edition",
+      "version": "1.77",
+      "sizeBytes": 9771050598,
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/cfn/11307PupfMWTTHB5sk-36FcFW6v1YRxICp4vlDgxUISmUWYslKjCUDWHe-ri3FPnnv260gkyo5Z-_9OOvdXeQVkA2vAOy7k8.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/y4w0ywzjhxdc"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/tAZY3uWZ7c"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA11492",
+      "title": "Detached",
+      "version": "1.02",
+      "sizeBytes": 21109764260,
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11492_00/12/i_dc243366b3ccc9973ac7e7822dbff2e0d8d0ef0b05607ed3a315cf44ac770f8e/i/pic0.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/qq0ml2suoeoi"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/EImZAf5wRr"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA09874",
+      "title": "Football Nation VR Tournament 2018",
+      "version": "1.14",
+      "sizeBytes": 7516192768,
+      "posterUrl": "https://image.api.playstation.com/cdn/UP4068/CUSA09880_00/qVw2hturo9JI8h3TvKamaDYZEbt9l7fr.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/g1m62o4wevah"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/ZgN8EPmJy2"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA16049",
+      "title": "Five Nights at Freddy's Help Wanted",
+      "version": "1.22",
+      "sizeBytes": 23622320128,
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/cfn/11307-0HRus_2t4H9IMsFjXlDxH1mwY-ch_aawQojHEfVSLYcNqkSg4_UykORSXRVrBngfu85Mzyi-GSeCfEYHYZnP025T_S.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/rdrh92xsssle"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/tK74chyqxS"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA04606",
+      "title": "Gal Gun Double Peace Ultimate Edition",
+      "version": "1.02",
+      "sizeBytes": 6238439997,
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/cfn/11307MvL3K96RARpIgLK_IxwLkFnzRNNq_QVUoLabtdpogzI3U7aJ23PhV2V0G4JmooMMoxsdwdMMs16aPXd7AI6TPQttS0Z.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/yj9iwv4kt8pv"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/1vkd6pwimZ"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA11341",
+      "title": "Gal Gun 2",
+      "version": "1.02",
+      "sizeBytes": 2405181686,
+      "posterUrl": "https://image.api.playstation.com/cdn/UP4293/CUSA11346_00/ZCUXOanz03npsHzvKxtXGZvPSyhEK6iH.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/u9iajsnaxnv3"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/dZs6LMHL4W"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA03067",
+      "title": "Agents of Mayhem",
+      "version": "1.05",
+      "sizeBytes": 48318382080,
+      "posterUrl": "https://image.api.playstation.com/cdn/UP2047/CUSA03132_00/z4YPfpFtKMbQhhr5x8Iwx60hKVX6WaOT.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/otkf7e2hw8ti"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/iBhnha7QHo"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA11646",
+      "title": "Arca's Path",
+      "version": "1.0",
+      "sizeBytes": 517543559,
+      "posterUrl": "https://image.api.playstation.com/cdn/UP4363/CUSA11701_00/5nsNnl1XupuLj3EImpvBSWnY8O1slVD9.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/7ix0h6hqbhcj"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/Hekl1JFb2K"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA12741",
+      "title": "Eden Tomorrow",
+      "version": "1.03",
+      "sizeBytes": 13486197309,
+      "posterUrl": "https://image.api.playstation.com/cdn/UP2436/CUSA14340_00/okgQJdfbPy0X9RPG0MFfEnUPpQ0QGJeE.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/u4iw54n34pl2"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/2vnIa4lkvz"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA16362",
+      "title": "The Rabbit Hole",
+      "version": "1.03",
+      "sizeBytes": 1331439862,
+      "posterUrl": "https://image.api.playstation.com/cdn/UP0458/CUSA10452_00/gdZtpjz7ySMYX7LIVWovY7XAisPBsl6i.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/b7gy1xj7sda4"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/m2HqKPD1Om"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA16509",
+      "title": "Apocalypse Rider",
+      "version": "1.03",
+      "sizeBytes": 1009317315,
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA12679_00/6/i_a94aff1f336cf06cbfee27af3780e08a05503dc4d1110c81e8f1ff2e55259a08/i/icon0.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/8h8eo8w6d68o"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/3scrFQ7VvR"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA17619",
+      "title": "Azur Lane Crosswave",
+      "version": "1.04",
+      "sizeBytes": 10136122819,
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/cfn/113072ZqK6YWbX6OLrxkd92QMRBThOwYIU35MG1l7VLdHONkcf5QrLAjp6XYOo4ceCuKdv7wKbtS_wfCPByNrl8QmOknRR9o.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/y900wp4ir9we"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/xXPHoBZ9nm"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA23661",
+      "title": "Brain Beats",
+      "version": "1.01",
+      "sizeBytes": 1020054733,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/2112/qedn00yb5JB6DF5k1A5FNCzs.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/10i6w1d19dyc"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/WEZ4Z9n42m"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA29261",
+      "title": "Wraith the Oblivion Afterlife",
+      "version": "1.02",
+      "sizeBytes": 3543348019,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1215/dylGyknNZXEJk2bJAjecPcF6.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/je9lqx8ay25h"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/GoI7cLkMuE"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA31615",
+      "title": "Super Bullet Break",
+      "version": "1.03",
+      "sizeBytes": 747324310,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2414/3Rwd2verWJyjNzW1QcnCEn6k.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/hdzj352cp9k6"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/v733fUi1xg"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA17393",
+      "title": "Astroneer",
+      "version": "1.87",
+      "sizeBytes": 3350074491,
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202112/2003/NmTEnt5SIVRk4dHDqcydervu.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/f3n7pyddbljd"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/fqlXFEYfGU"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA56821",
+      "title": "Who's at the Door",
+      "version": "1.01",
+      "sizeBytes": 3725884129,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2105/b698861f534a57c20c628c1b6fa9f376132b86567e13acb6.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/xljjzth2faou"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/5awqsXNC0w"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA08364",
+      "title": "Okami HD",
+      "version": "1.0",
+      "sizeBytes": 18253611008,
+      "posterUrl": "https://image.api.playstation.com/cdn/UP0102/CUSA08418_00/bKaklXPelfDeAe4ODKN25A63ZqOMMlhi.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/1ac8x3smsjvb"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/tEaJaEsuJy"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA06675",
+      "title": "How we Soar",
+      "version": "1.01",
+      "sizeBytes": 9341553869,
+      "posterUrl": "https://image.api.playstation.com/cdn/UP1451/CUSA06889_00/riNKbSQnpLuCIbLbUvrX00gVRDIpp4m4.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/bapv2b9fyqwu"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/QETAAixvrM"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA17093",
+      "title": "Hatsune Miku VR + Song Packs",
+      "version": "1.04",
+      "sizeBytes": 3758096384,
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202109/2709/8ZIcW75oyi8GMZfSgith2cN3.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/nszhnr6akmnd"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/Qs8zQW7OSz"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA17678",
+      "title": "Yu Gi Oh Legacy of the Duelist Link Evolution",
+      "version": "1.01",
+      "sizeBytes": 1728724337,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0112/ZkrCJGdMnokOv6tzAlTsdYFV.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/dmdbbi0u438b"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/lSRGvJ2Wrl"
+        }
+      ]
+    },
+    {
+      "titleId": "CUSA58609",
+      "title": "TCG Card Shop Simulator",
+      "version": "1.05",
+      "sizeBytes": 1664299827,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1923/86dc3c8f50a2697d2b6cfaa6f7e3ddb68cac7e54b1419892.png",
+      "downloadLinks": [
+        {
+          "name": "Vik1",
+          "url": "https://vikingfile.com/f/BBeSXFqIn7"
+        },
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/t0y1koru7dmq"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/KJnWxbeesS"
+        }
+      ]
+    }
+  ]
+}

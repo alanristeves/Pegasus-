@@ -2,6 +2,133 @@
   "name": "GFS Catalog-zstd",
   "packages": [
     {
+      "titleId": "PPSA28000",
+      "title": "The Blood of Dawnwalker",
+      "version": "1.005",
+      "sizeBytes": 51357071442,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1814/ddbb64a482de46164e8749051b74419cbd25da80dc2b3cc4.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/buu6osg2iorx"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/xAFHw7hZwm"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA02785",
+      "title": "A Plague Tale: Requiem",
+      "version": "1.006",
+      "sizeBytes": 51163797914,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/5fJ3kW3Q3iEfNP9NpJybaKsq.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/wxml93t0pw7w"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/rW8KwihINs"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA25286",
+      "title": "Crimson Desert Enhanced Edition",
+      "version": "1.000.568",
+      "sizeBytes": 106407814758,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2006/e8f306c89efa555a13e4d3910dafda994a14b2355f342802.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/wg0k53wv1jl7"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/d8sgd7patC"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16004",
+      "title": "Rubberduck Wave Racer",
+      "version": "1.001",
+      "sizeBytes": 2061584302,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/3013/c6764b1da9fc73ec572238894b640bf01add15922550fbdc.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/8zl9by2fr1fl"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/50JbtHm3VF"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34063",
+      "title": "NHL 27",
+      "version": "01.003.001",
+      "sizeBytes": 62813896704,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2200/e1ef9297baa35454b038c1d8bdaf826b65baa877eac9bf89.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/DFL6fTDSMa"
+        },
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/5il2v08o8voh"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/L7nOs8VYWI"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA02225",
+      "title": "Ghost of Tsushima",
+      "version": "02.024.000",
+      "sizeBytes": 69868380488,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/v53I7qHvpWSQsL2oLxrM46NV.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/dzEP5XlaB3"
+        },
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/1z28xp9v84vu"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/Yj9uJIU91h"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17221",
+      "title": "Minecraft",
+      "version": "1.008",
+      "sizeBytes": 955630223,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/3122/5090d13ef020de9139a5bb21ad2f26a8c5c1c8d2b432aa92.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/fdwxqgq9pjad"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/0XuBuebJz1"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA13427",
       "title": "Horizon Zero Dawn Remastered",
       "version": "1.009",
@@ -99,67 +226,67 @@
       "downloadLinks": [
         {
           "name": "Data pt.1",
-          "url": "https://datanodes.to/fclkyv53w9th"
+          "url": "https://datanodes.to/z50o3vtm0sz2"
         },
         {
           "name": "Data pt.2",
-          "url": "https://datanodes.to/5lqx7dm9ibmz"
+          "url": "https://datanodes.to/4o25y42918rv"
         },
         {
           "name": "Data pt.3",
-          "url": "https://datanodes.to/85nx077od1ih"
+          "url": "https://datanodes.to/0hmhs13yo0ja"
         },
         {
           "name": "Data pt.4",
-          "url": "https://datanodes.to/gb2cuv39xmdc"
+          "url": "https://datanodes.to/an05a5kye70a"
         },
         {
           "name": "Data pt.5",
-          "url": "https://datanodes.to/7ehbqejwr1gs"
+          "url": "https://datanodes.to/n8g398aj2u9a"
         },
         {
           "name": "Data pt.6",
-          "url": "https://datanodes.to/rpwzam2d67za"
+          "url": "https://datanodes.to/lv6v06zwxtj3"
         },
         {
           "name": "Data pt.7",
-          "url": "https://datanodes.to/yuox1of18s3q"
+          "url": "https://datanodes.to/jw7z7t2tmmnm"
         },
         {
           "name": "Data pt.8",
-          "url": "https://datanodes.to/6ba09t6lg3lu"
+          "url": "https://datanodes.to/f91elfbf3ctb"
         },
         {
           "name": "Viki pt.1",
-          "url": "https://vikingfile.com/f/xQXifF6sjS"
+          "url": "https://vikingfile.com/f/DtHMW3XygX"
         },
         {
           "name": "Viki pt.2",
-          "url": "https://vikingfile.com/f/vrCYv2cWoA"
+          "url": "https://vikingfile.com/f/O4oFFEizsd"
         },
         {
           "name": "Viki pt.3",
-          "url": "https://vikingfile.com/f/X4u4H3kjdm"
+          "url": "https://vikingfile.com/f/K8ZlsNJCEW"
         },
         {
           "name": "Viki pt.4",
-          "url": "https://vikingfile.com/f/Rt96a71u0k"
+          "url": "https://vikingfile.com/f/JUrnOamC8Y"
         },
         {
           "name": "Viki pt.5",
-          "url": "https://vikingfile.com/f/aRyzEY7AdI"
+          "url": "https://vikingfile.com/f/h9qTqdkKNI"
         },
         {
           "name": "Viki pt.6",
-          "url": "https://vikingfile.com/f/x5J8dftl4F"
+          "url": "https://vikingfile.com/f/3dZGASw0Hi"
         },
         {
           "name": "Viki pt.7",
-          "url": "https://vikingfile.com/f/fKpudPMTee"
+          "url": "https://vikingfile.com/f/c7INUPKBNG"
         },
         {
           "name": "Viki pt.8",
-          "url": "https://vikingfile.com/f/BX0OkZHCAS"
+          "url": "https://vikingfile.com/f/MvMF1ZD9IG"
         }
       ]
     },

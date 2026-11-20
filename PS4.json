@@ -1,538 +1,2863 @@
 {
-  "name": "GFS Catalog-ps4",
+  "name": "GFS Catalog-zstd",
   "packages": [
     {
-      "titleId": "CUSA08133",
-      "title": "Mars Alive",
-      "version": "1.01",
-      "sizeBytes": 1685774664,
-      "posterUrl": "https://image.api.playstation.com/cdn/UP2844/CUSA14979_00/sb3GOeReg1aNuovMG8Hi95RMAixDb1P6.png",
+      "titleId": "PPSA28000",
+      "title": "The Blood of Dawnwalker",
+      "version": "1.005",
+      "sizeBytes": 51357071442,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1814/ddbb64a482de46164e8749051b74419cbd25da80dc2b3cc4.jpg",
       "downloadLinks": [
         {
           "name": "Data",
-          "url": "https://datanodes.to/kzf5apvsp0wy"
+          "url": "https://datanodes.to/buu6osg2iorx"
         },
         {
           "name": "Viki",
-          "url": "https://vikingfile.com/f/ppZNKSYFJR"
+          "url": "https://vikingfile.com/f/xAFHw7hZwm"
         }
       ]
     },
     {
-      "titleId": "CUSA09049",
-      "title": "Lunar Stone Origin of Blood",
-      "version": "1.06",
-      "sizeBytes": 1793148846,
-      "posterUrl": "https://image.api.playstation.com/cdn/UP1496/CUSA11279_00/IVe4fF81g6r6dBL9KEYkf8lJPoOeObFY.png",
+      "titleId": "PPSA02785",
+      "title": "A Plague Tale: Requiem",
+      "version": "1.006",
+      "sizeBytes": 51163797914,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/5fJ3kW3Q3iEfNP9NpJybaKsq.jpg",
       "downloadLinks": [
         {
           "name": "Data",
-          "url": "https://datanodes.to/wujax1rfceqh"
+          "url": "https://datanodes.to/wxml93t0pw7w"
         },
         {
           "name": "Viki",
-          "url": "https://vikingfile.com/f/KVB2UFOxt8"
+          "url": "https://vikingfile.com/f/rW8KwihINs"
         }
       ]
     },
     {
-      "titleId": "CUSA09412",
-      "title": "Dark Legion",
+      "titleId": "PPSA25286",
+      "title": "Crimson Desert Enhanced Edition",
+      "version": "1.000.568",
+      "sizeBytes": 106407814758,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2006/e8f306c89efa555a13e4d3910dafda994a14b2355f342802.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/wg0k53wv1jl7"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/d8sgd7patC"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16004",
+      "title": "Rubberduck Wave Racer",
+      "version": "1.001",
+      "sizeBytes": 2061584302,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/3013/c6764b1da9fc73ec572238894b640bf01add15922550fbdc.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/8zl9by2fr1fl"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/50JbtHm3VF"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34063",
+      "title": "NHL 27",
+      "version": "01.003.001",
+      "sizeBytes": 62813896704,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2200/e1ef9297baa35454b038c1d8bdaf826b65baa877eac9bf89.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/DFL6fTDSMa"
+        },
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/5il2v08o8voh"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/L7nOs8VYWI"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA02225",
+      "title": "Ghost of Tsushima",
+      "version": "02.024.000",
+      "sizeBytes": 69868380488,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/v53I7qHvpWSQsL2oLxrM46NV.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/dzEP5XlaB3"
+        },
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/1z28xp9v84vu"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/Yj9uJIU91h"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17221",
+      "title": "Minecraft",
+      "version": "1.008",
+      "sizeBytes": 955630223,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/3122/5090d13ef020de9139a5bb21ad2f26a8c5c1c8d2b432aa92.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/fdwxqgq9pjad"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/0XuBuebJz1"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13427",
+      "title": "Horizon Zero Dawn Remastered",
+      "version": "1.009",
+      "sizeBytes": 99106370355,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2716/b23608e3b46e3b1f6aebb78a4aa9b1bf4f72a1d99f42ed01.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/77q6bl7wy8vz"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/q7jlelxmy9ip"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/2peyrnjffgqw"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/juqm0if2af6y"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/dkgj3ki0ve7r"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/0ii6rk83n95o"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/hyh61m2gj7f2"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/sq609gnxk9wf"
+        },
+        {
+          "name": "Data pt.9",
+          "url": "https://datanodes.to/jbx1mfpmojqk"
+        },
+        {
+          "name": "Data pt.10",
+          "url": "https://datanodes.to/tzw564twl6wx"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/ZqVlKkfzdk"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/QCFxcKN9VF"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/61AnLbOOfK"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/bW99QPF1GO"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/UMMEEoBD67"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/Gk6pcPoEvY"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/TGIg1V9YjH"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/TfjBbmr9SD"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/DfpLc7W9ra"
+        },
+        {
+          "name": "Viki pt.10",
+          "url": "https://vikingfile.com/f/e2SIVY7cn9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA31246",
+      "title": "Resident Evil Requiem",
+      "version": "1.310",
+      "sizeBytes": 82570746266,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/e0364b3089bbbad7e0a04f87cab6c273172515a134efdf88.png",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/z50o3vtm0sz2"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/4o25y42918rv"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/0hmhs13yo0ja"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/an05a5kye70a"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/n8g398aj2u9a"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/lv6v06zwxtj3"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/jw7z7t2tmmnm"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/f91elfbf3ctb"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/DtHMW3XygX"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/O4oFFEizsd"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/K8ZlsNJCEW"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/JUrnOamC8Y"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/h9qTqdkKNI"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/3dZGASw0Hi"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/c7INUPKBNG"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/MvMF1ZD9IG"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA14364",
+      "title": "Metal Gear Solid Master Collection Version",
+      "version": "1.500",
+      "sizeBytes": 5905580032,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1312/d0b83161cda35506e95983468091b09097190c0185a64fee.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/7t0rqv4netcj"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/2UxMkUkX1f"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07571",
+      "title": "Mortal Kombat 1 + DLCs",
+      "version": "1.010.001",
+      "sizeBytes": 143344533504,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/93797636f47b37b74e9d3740e17ae1306aaf539c7952a703.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/ub77y8h7snuj"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/iilrkxz6mua3"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/82w3ka4g2bnh"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/0tt2ixrvt7lx"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/cmqfhong1ao7"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/v9zdj03t3tpa"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/qmr1o5db9x68"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/7fnh2kggv17b"
+        },
+        {
+          "name": "Data pt.9",
+          "url": "https://datanodes.to/111o3lkn1ygc"
+        },
+        {
+          "name": "Data pt.10",
+          "url": "https://datanodes.to/r8xpfu02f88u"
+        },
+        {
+          "name": "Data pt.11",
+          "url": "https://datanodes.to/buuwa7ycaclf"
+        },
+        {
+          "name": "Data pt.12",
+          "url": "https://datanodes.to/2ggj8rvhc3q2"
+        },
+        {
+          "name": "Data pt.13",
+          "url": "https://datanodes.to/qnu3ea3vcn1o"
+        },
+        {
+          "name": "Data pt.14",
+          "url": "https://datanodes.to/rj5312nlgscj"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/7E9gePiiN1"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/LlmVZXnOy8"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/FSJViPj62E"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/F8adRO9CBp"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/D1whgzw8KA"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/mJ17niXebQ"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/Q6eYnDs85S"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/8WZtRZQ7nr"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/zoX1Cq92pM"
+        },
+        {
+          "name": "Viki pt.10",
+          "url": "https://vikingfile.com/f/x8f7O0ddIk"
+        },
+        {
+          "name": "Viki pt.11",
+          "url": "https://vikingfile.com/f/nv3mIUXapu"
+        },
+        {
+          "name": "Viki pt.12",
+          "url": "https://vikingfile.com/f/pNDAkBqQ3V"
+        },
+        {
+          "name": "Viki pt.13",
+          "url": "https://vikingfile.com/f/gJCRqScTvf"
+        },
+        {
+          "name": "Viki pt.14",
+          "url": "https://vikingfile.com/f/tGyyJaepr9"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vikingfile.com/f/NtAT9u4CdM"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA15210",
+      "title": "Dragon Ball Sparking! Zero NEO + DLCs!",
+      "version": "3.000.005",
+      "sizeBytes": 37473589658,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2306/4cd58335849eb1b3a2f1da02b6cbb21bfc11f973aefd5cc5.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/ez0rxeqdcww0"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/fr57lrkcdptc"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/ll8ogtyiej9i"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/6z8m4ujig6ea"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/L7qYZEyOG9"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/xUtsr0BPOu"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/Uddw7GRqOn"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/uP6jL60JdA"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA09114",
+      "title": "Green Hell VR",
+      "version": "2.050.001",
+      "sizeBytes": 5368709120,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1615/fdca71cc27b71db2f07c34b59990d11d60836422e79a4bc0.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/l4g0cc5k6rvd"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/7d3mn1jtoO"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03977",
+      "title": "The Witcher 3: Wildhunt - Complete Edition",
+      "version": "4.040.100",
+      "sizeBytes": 85899345920,
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/03/1-1-3.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/honcwnul7wkg"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/057ieesvd6mq"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/8gi7w4vsswgv"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/f85hbff0bfo1"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/ko3161b8bfhr"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/5y5ofls1b7ku"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/vrx7ukuksyms"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/hxtny3d8ltms"
+        },
+        {
+          "name": "Data pt.9",
+          "url": "https://datanodes.to/hdqy7mkwczt0"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/3CXqe2h7S3"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/VJPagOYDs3"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/e3IIwaPP46"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/XYNRATlx6F"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/1teNGOy4G1"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/ETr03ylNTt"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/jTyAnkqAFl"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/kxd0hyR5OA"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/uMRm2jx34z"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA05684",
+      "title": "Uncharted Legacy of Thieves",
+      "version": "1.002",
+      "sizeBytes": 90086939034,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/wZ31G6ToIH9otXTVHbg3I2Wl.png",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/8of2blp1w5sb"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/h0qw0bjwqapr"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/mvl3kldnau34"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/hd80oq42k5oe"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/hviokvonsbfw"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/ek031q6omeb9"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/thr3ufp24n1d"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/4glmxqfr8ste"
+        },
+        {
+          "name": "Data pt.9",
+          "url": "https://datanodes.to/i8qg7l1fk85p"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/B47cJd16R3"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/yT9T0EQoTb"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/JVAAZb2o0C"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/dccAbSgikm"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/CrbNOLmm2P"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/8wp3s0aUvG"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/2mnLZSGYvJ"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/EZN9P6lWKo"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/W0J2yyBzE0"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03396",
+      "title": "The Last of Us Part I",
+      "version": "2.0",
+      "sizeBytes": 84396107366,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/aZKLRcjaZ8HL03ODxYMZDfaH.png",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/htl3dqp11g3r"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/r11vw42unbx9"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/atf1mlgnifre"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/wse9m4gkkh6x"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/ehtd4w7wp0nc"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/1i6zhqywthl1"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/tuw6j3b5ljyf"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/08zz6sfnlcue"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/q6lhD9bjE3"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/IjQ1oiHAAN"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/OiiPK7L3MF"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/XP1fxi9rLh"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/LeTFUotL3T"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/03lhCG8RAo"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/ATYI57jPC0"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/dbBskv3Hjn"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34008",
+      "title": "Mortal Shell 2",
+      "version": "1.000.010",
+      "sizeBytes": 34789235098,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1509/2b0d72b37a9a0ff361622b037cd346ac8888cae1c716213d.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/37mdnmoxu037"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/k22azp95tcwi"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/btnb6vzzhlkr"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/dgv7atjlvwur"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/XWUHsQI8hP"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/yfxwAuAp6M"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/kj4KhTTLm8"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/UO7GS5gt4V"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA32785",
+      "title": "Nioh 3",
+      "version": "1.040.020",
+      "sizeBytes": 87080461926,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0401/94ee3e1197a2088f60aa88ed23fa81f85fa05e56ad7a04e2.png",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/iird65w1celi"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/3my8w4prb7mw"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/z9kwz3mw8usk"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/aghjcqcor4x5"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/qwp3s78j5vla"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/xlb61l46mwqd"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/xnae3yl9p92p"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/d9j2clm9d5ps"
+        },
+        {
+          "name": "Data pt.9",
+          "url": "https://datanodes.to/6n2nn11t4i29"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/jYUWAdyyi9"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/77oWmPlSWd"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/CgC3c127In"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/IpbxFgbkrM"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/LIFShkxHCP"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/CTitCg2tVO"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/XTaWMbY3GW"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/5DmWg7WglZ"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/XIm9FZx9QP"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA21159",
+      "title": "Silent hill F",
+      "version": "1.003",
+      "sizeBytes": 38547331482,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0704/ac8ee550a288cb7d095374a35c14ff0fdbf185b56ce7478a.png",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/796v1rq1yca4"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/wyhzmwpcs2tn"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/zpkgq9uxq147"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/vunjf735siin"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/EWWp7vZIq2"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/GszJfds7RC"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/A9ecXjkwQj"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/GbHErmT50c"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA02100",
+      "title": "Stray",
+      "version": "1.005",
+      "sizeBytes": 7730941133,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/VdyFw6rwpTdZS2UioHYBbvre.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/dsu93gblutfx"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/PuuVNHWgyo"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA25258",
+      "title": "NINJA GAIDEN 4",
+      "version": "01.004",
+      "sizeBytes": 32212254720,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2115/53c57d0a7d2aaf31e31f523dd2adc4151cdbc7bcf0c1160c.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/GxKTUxK8IG"
+        },
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/ydmgjsyl1t51"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/nj7o2hcvclg3"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/8oz8hgnyio46"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/rkpn6izfqiy1"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/A5ska6P3VV"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/2MaX70XdYQ"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/gR6yPghFD0"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/R4q0e2t0GK"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA23372",
+      "title": "REANIMAL",
+      "version": "1.000.012",
+      "sizeBytes": 15139759718,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/3d02d3ec10d248f4dc6c1cc5bd9327008d1a4071270bda62.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/CQSX7B7Ybv"
+        },
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/quje7td11nol"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/jkemxprx2qo5"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/bHuk0CnUe9"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/w9KkwAbXe9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03643",
+      "title": "Mighty Goose",
+      "version": "2.000.001",
+      "sizeBytes": 252329329,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2104/SCd9sftxfuO29CjaqwJbKyy4.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/jleyn5be69av"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/CnSv0yFUOR"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03463",
+      "title": "Laika Aged Through Blood",
+      "version": "4.0",
+      "sizeBytes": 1224065679,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1707/6e3b9bbaebd2393a3f892abb8095578853b22ef19fe98198.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/gm5r794cmpuf"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/6uISleAFm0"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17905",
+      "title": "Horizon Forbidden West Complete Edition",
+      "version": "1.030",
+      "sizeBytes": 139371688755,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/2015/d227c4c23b75dea4a32c837cea0f50585d137c789577fa09.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/zl6ekxbj36je"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/t5pr0ekwvemf"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/xf5ndak7knby"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/2cplu0gocwa1"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/hfpru52uy6xa"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/0yllgfgq14e7"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/jft4hne1jvph"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/av0pn1eyx6gx"
+        },
+        {
+          "name": "Data pt.9",
+          "url": "https://datanodes.to/apoji9ccwvvx"
+        },
+        {
+          "name": "Data pt.10",
+          "url": "https://datanodes.to/j1t48j2fmihx"
+        },
+        {
+          "name": "Data pt.11",
+          "url": "https://datanodes.to/q6est2a5mtyd"
+        },
+        {
+          "name": "Data pt.12",
+          "url": "https://datanodes.to/a4lv8q60h7j4"
+        },
+        {
+          "name": "Data pt.13",
+          "url": "https://datanodes.to/exr217wb2dtc"
+        },
+        {
+          "name": "Data pt.14",
+          "url": "https://datanodes.to/m5fx7qipiaqz"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/ZXephHj2LO"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/FbYIjl0kBv"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/RyFcsiyKda"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/a8ZFs6FGa3"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/pnjXzuccNA"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/rVI1FstOON"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/n5OUP2xy1w"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/4xKnrOtFiV"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/sTABQFw9UC"
+        },
+        {
+          "name": "Viki pt.10",
+          "url": "https://vikingfile.com/f/bdY7b30Gm9"
+        },
+        {
+          "name": "Viki pt.11",
+          "url": "https://vikingfile.com/f/Nf61OHCiu0"
+        },
+        {
+          "name": "Viki pt.12",
+          "url": "https://vikingfile.com/f/0Svx13Tkfe"
+        },
+        {
+          "name": "Viki pt.13",
+          "url": "https://vikingfile.com/f/DMb5YPepC7"
+        },
+        {
+          "name": "Viki pt.14",
+          "url": "https://vikingfile.com/f/waqNBwAWOA"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA26679",
+      "title": "NINJA GAIDEN 2 Black",
+      "version": "01.003.000",
+      "sizeBytes": 92889405194,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/0605/163355353ae3a6a3329634e09ab4d4686335e46408fc95ec.png",
+      "downloadLinks": [
+        {
+          "name": "Gofile",
+          "url": "https://gofile.io/d/sJ1RkNZW"
+        },
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/fdccs23hzsr9"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/8gs07paym3ad"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/t1niw1jq8p4h"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/exp8vv0kxm5k"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/mxr4bv7exg2r"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/h6m4oqz6pp15"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/zyj552x50n98"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/0ra0lkrivsqy"
+        },
+        {
+          "name": "Data pt.9",
+          "url": "https://datanodes.to/7jr1ekg6a1ak"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/595wC15JUo"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/W1nhRfazvi"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/oOG2ebpvnQ"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/5tcyrbR3Hr"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/YHaEp6XXcw"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/2ItCYa66v0"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/tpmKPw8vtv"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/cQnC3F33Z0"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/VcJ8BGS2Ax"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA15304",
+      "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+      "version": "01.002.004",
+      "sizeBytes": 125488206971,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0513/826f1fca50b94407783d34055362d0aae870396e5289d427.png",
+      "downloadLinks": [
+        {
+          "name": "Gofile",
+          "url": "https://gofile.io/d/CxdDLuEN"
+        },
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/iq2od54bahgb"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/3jlt0g3c4npb"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/smhwg2iq2d1p"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/4r62nue5rq54"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/0b2ld326mkkr"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/btldak9jbf44"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/1wlukj9fd4wg"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/7fxodi0vmac5"
+        },
+        {
+          "name": "Data pt.9",
+          "url": "https://datanodes.to/kxuixy6rn3c2"
+        },
+        {
+          "name": "Data pt.10",
+          "url": "https://datanodes.to/76v6682qk1sl"
+        },
+        {
+          "name": "Data pt.11",
+          "url": "https://datanodes.to/1rp6atebdci3"
+        },
+        {
+          "name": "Data pt.12",
+          "url": "https://datanodes.to/dvzqnvsc6u79"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/1OQ5WKEWYG"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/H3AbPCP5ij"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/72x0v47cIP"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/eWo2COcdz2"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/sVYBx35KC3"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/cKk3M3eMFz"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/vmlpyZ9mbP"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/siYCkspVF9"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/82zS2zPxRh"
+        },
+        {
+          "name": "Viki pt.10",
+          "url": "https://vikingfile.com/f/NZ1D7hiFCm"
+        },
+        {
+          "name": "Viki pt.11",
+          "url": "https://vikingfile.com/f/23Xu7quEmn"
+        },
+        {
+          "name": "Viki pt.12",
+          "url": "https://vikingfile.com/f/47LTcAYyVm"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08329 & PPSA08330",
+      "title": "God of War Ragnarok",
+      "version": "6.006",
+      "sizeBytes": 118218974822,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2016/1e48e3b7d11fc2da3de62ad8a2a2d3c2882e1bb4ce6caadb.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/wi9aczgqqhw6"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/47iagmmimixq"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/6w5u8yjerjzb"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/t8da1j0tw1rf"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/szdb5vwkxdiy"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/h5jmus0mc7ux"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/e2oapacfla0i"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/6712ax7bgtk8"
+        },
+        {
+          "name": "Data pt.9",
+          "url": "https://datanodes.to/kc5beetyxwvx"
+        },
+        {
+          "name": "Data pt.10",
+          "url": "https://datanodes.to/w3093f93ex68"
+        },
+        {
+          "name": "Data pt.11",
+          "url": "https://datanodes.to/ocvwsbzoeura"
+        },
+        {
+          "name": "Data pt.12",
+          "url": "https://datanodes.to/9z93iaz9tek0"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/LyoAY1LxcX"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/gcIVZ8B47A"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/NgQp69Pjex"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/ouHh9CxRvq"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/VSdmPlUhGC"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/apcQM7HwAE"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/QyAuL0Wjxz"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/oLxEoydcaS"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/4SwQfU28RR"
+        },
+        {
+          "name": "Viki pt.10",
+          "url": "https://vikingfile.com/f/9zqp5eC1sI"
+        },
+        {
+          "name": "Viki pt.11",
+          "url": "https://vikingfile.com/f/F8ggQyodOI"
+        },
+        {
+          "name": "Viki pt.12",
+          "url": "https://vikingfile.com/f/TGBPgmPACV"
+        },
+        {
+          "name": "Gofile",
+          "url": "https://gofile.io/d/qJIMwlCu"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24662",
+      "title": "F1 25",
+      "version": "1.018",
+      "sizeBytes": 74517682586,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2009/ffb302a93b80b00487c680187bc959557d32fbaa39e51238.png",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/ym5f0p4vu5g7"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/jwh6u5jdgy8o"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/bwlso68f1r6h"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/tozffc3u19go"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/wr8ffbxzc345"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/2kz1n22sagbe"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/i8gcgce17ysb"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/gNtIOL34U7"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/vD2xbQnjnR"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/zf346C0leh"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/1rAttxgg3n"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/tIxZjjgdra"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/gfBXlX1h6N"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/fwIYyATkJ6"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vikingfile.com/f/0W1XxaHx6M"
+        },
+        {
+          "name": "Data - DLC",
+          "url": "https://datanodes.to/fpmdrb0yqbnq"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24913",
+      "title": "Ace Combat 8: Wings of Theve",
+      "version": "1.001.001",
+      "sizeBytes": 118004226458,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1502/f835ce3f458cb67cf0a104c604711793c65aa024314bd0d8.jpg",
+      "downloadLinks": [
+        {
+          "name": "viking",
+          "url": "https://vikingfile.com/f/dW37NrxX2r"
+        },
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/o6j7a3jcc0qw"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/butphhejfkyq"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/s2e1rpyi6gqx"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/iz38zhjeq92a"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/m1nsycqr7elb"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/xlmnqvukseh7"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/fw5wlpsocsv2"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/tybnit2q1zxv"
+        },
+        {
+          "name": "Data pt.9",
+          "url": "https://datanodes.to/yaj36wc7m1g3"
+        },
+        {
+          "name": "Data pt.10",
+          "url": "https://datanodes.to/v87o0msnfzb0"
+        },
+        {
+          "name": "Data pt.11",
+          "url": "https://datanodes.to/vgmtmfrpxmf6"
+        },
+        {
+          "name": "Data pt.12",
+          "url": "https://datanodes.to/36te3dnbhdv6"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/VMy0dleca3"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/tLj4Ccq6dq"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/yr4kqmejf4"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/F5CsKWzJFY"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/Xn2lF7TFRN"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/rRe8qtaY6H"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/9WpA7izIMM"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/6NO2uAOKsD"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/oAv2cN2EP2"
+        },
+        {
+          "name": "Viki pt.10",
+          "url": "https://vikingfile.com/f/1zFcwhjOuv"
+        },
+        {
+          "name": "Viki pt.11",
+          "url": "https://vikingfile.com/f/M1eMEXm6Al"
+        },
+        {
+          "name": "Viki pt.12",
+          "url": "https://vikingfile.com/f/CklE3L9zsu"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03671",
+      "title": "Wolverine",
+      "version": "1.001.005",
+      "sizeBytes": 109521666048,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2221/5ba04b023e0b4c4aa7fbdbf2170262a52bc0384ee44efce0.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/xnw3p7nk7qer"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/kkgru4th3rhx"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/1uj8vnjy7eoi"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/sjcq0mm9wdd8"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/jkkkh0qspqcb"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/sj8e5nkysh3k"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/eo0hzy9azekx"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/q5rwt6n1a04s"
+        },
+        {
+          "name": "Data pt.9",
+          "url": "https://datanodes.to/nlsnj25ovvbh"
+        },
+        {
+          "name": "Data pt.10",
+          "url": "https://datanodes.to/aduthx5s2sow"
+        },
+        {
+          "name": "Data pt.11",
+          "url": "https://datanodes.to/nw0y7mm8imiq"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/qAT88ZHOZk"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/6igtVsGGJm"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/wCO01DfhDR"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/1AgiNPSmzs"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/jv2YDd4ZEC"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/zu0JffW0Tn"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/0Pevwow6Cd"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/LM7waaVB3T"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/zwr441OuIA"
+        },
+        {
+          "name": "Viki pt.10",
+          "url": "https://vikingfile.com/f/37ecnMfNTo"
+        },
+        {
+          "name": "Viki pt.11",
+          "url": "https://vikingfile.com/f/O5oRpzgPto"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34015",
+      "title": "FC 27",
+      "version": "1.000.004",
+      "sizeBytes": 74839805133,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2321/85b57bdbdf560c7b606f3e3600cf2a36b5c870320e2c5e71.png",
+      "downloadLinks": [
+        {
+          "name": "Data pt.1",
+          "url": "https://datanodes.to/rgmba81fofww"
+        },
+        {
+          "name": "Data pt.2",
+          "url": "https://datanodes.to/2oyrhglzxbnh"
+        },
+        {
+          "name": "Data pt.3",
+          "url": "https://datanodes.to/z5ryav7en1cl"
+        },
+        {
+          "name": "Data pt.4",
+          "url": "https://datanodes.to/ebl06zv4jdob"
+        },
+        {
+          "name": "Data pt.5",
+          "url": "https://datanodes.to/aa2ejamnorxk"
+        },
+        {
+          "name": "Data pt.6",
+          "url": "https://datanodes.to/p3sp8oybt1de"
+        },
+        {
+          "name": "Data pt.7",
+          "url": "https://datanodes.to/36uxnxazcv9x"
+        },
+        {
+          "name": "Data pt.8",
+          "url": "https://datanodes.to/7vgxlj3j7prw"
+        },
+        {
+          "name": "Data - DLC",
+          "url": "https://datanodes.to/ka0g7rups4vx"
+        },
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/QAZASyo3ir"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/r1MTM2bLhN"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/wBFOTi725I"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/6KnJxJS3G7"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/UYeU0awT4U"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/OyXyPAvtks"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/ufV7VFXc3w"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/fpa0QZl7D1"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vikingfile.com/f/ZAUbdaL7sJ"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA19534",
+      "title": "Battlefield 6",
+      "version": "1.000.016",
+      "sizeBytes": 133143986176,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2217/61569015edf6c81b2e9772271e357b3c69ff0c2a4a5a2d07.png",
+      "downloadLinks": [
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/elGLrPBpxg"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/ocGBtNPgJ5"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/4Eit7b5Zai"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/lLxZa2Js2G"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/uCTTiEQgjc"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/6QA2RAuo3k"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/DkZZVBPemQ"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/Ya9iMsjlIG"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/nmSYpXAKmm"
+        },
+        {
+          "name": "Viki pt.10",
+          "url": "https://vikingfile.com/f/s5aFtPWP7n"
+        },
+        {
+          "name": "Viki pt.11",
+          "url": "https://vikingfile.com/f/GDfepq40dP"
+        },
+        {
+          "name": "Viki pt.12",
+          "url": "https://vikingfile.com/f/p270RXgGj8"
+        },
+        {
+          "name": "Viki pt.13",
+          "url": "https://vikingfile.com/f/myB3pFUaYY"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24884",
+      "title": "Starfield",
+      "version": "1.000.002",
+      "sizeBytes": 129063767245,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/0401/684c5b80f300383037e55dc15bf2ad90f1753bed86e519ee.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/2rq9sAWGbB"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/Fokp08qTj7"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/IORxk8MWXp"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/0vMUEtuyOL"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/iMJwitxAzn"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/aj6GxbWwev"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/yVBazMxCTV"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/5ogthWsEOg"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/3tiAZ63IDL"
+        },
+        {
+          "name": "Viki pt.10",
+          "url": "https://vikingfile.com/f/zPCBEVpwL7"
+        },
+        {
+          "name": "Viki pt.11",
+          "url": "https://vikingfile.com/f/TtrmZhkIkP"
+        },
+        {
+          "name": "Viki pt.12",
+          "url": "https://vikingfile.com/f/jToCyzjK2v"
+        },
+        {
+          "name": "Viki pt.13",
+          "url": "https://vikingfile.com/f/ZfMloBvWyh"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24096",
+      "title": "Cronos The New Dawn",
+      "version": "1.010",
+      "sizeBytes": 22226455757,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1512/83d2425a16c41b455697a43c09d7e62b3ff014de60c260f2.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/yrNgUAjwkD"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/WZbjT7mMVL"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/0Ej7py2Cn5"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA35399",
+      "title": "Castlevania Beltmon's Curse",
       "version": "1.0",
-      "sizeBytes": 1610612736,
-      "posterUrl": "https://image.api.playstation.com/cdn/UP1496/CUSA12194_00/TPyzPwmzz0UJboGltHb3SPVt4HUmoT32.png",
+      "sizeBytes": 4155380859,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2108/98ee5fe75d227f36fe22574f2fab9404d4b69e4318378f39.png",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/eyg4vlvhg8gj"
-        },
-        {
           "name": "Viki",
-          "url": "https://vikingfile.com/f/g7lIXGWOqZ"
+          "url": "https://vikingfile.com/f/jTIQU73eG8"
         }
       ]
     },
     {
-      "titleId": "CUSA53574",
-      "title": "Bendy - Lone Wolf",
-      "version": "01.03",
-      "sizeBytes": 2254857830,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0719/02cf001ae29d69ad3806b7ffa27b731010f2532a772121d0.png",
+      "titleId": "PPSA21567",
+      "title": "Astro Bot",
+      "version": "1.019",
+      "sizeBytes": 46278272614,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0200/aac40cfde55b67abf081d5d9ebcc5e3e08aaa65a4c99424e.jpg",
       "downloadLinks": [
         {
-          "name": "Archive",
-          "url": "https://archive.org/details/qmvuzhkgtg9uzsbxb2xmievvicsgugf0y2ggkenvu0e1mzu3nck"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/3tivgyPMVf"
         },
         {
-          "name": "Data",
-          "url": "https://datanodes.to/gtz8nyhfaojm"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/663yKkRW37"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/X04nmoKfi2"
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/GyIXeWnbdO"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/e17u9Dj6Jt"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/im1b0w2Kzs"
         }
       ]
     },
     {
-      "titleId": "CUSA57722",
-      "title": "Chorus of Carcosa",
-      "version": "1.03",
-      "sizeBytes": 10114647982,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1215/fd88a2c2943751f28b7a1454df4d01a0d82e429363f63981.png",
+      "titleId": "PPSA22327",
+      "title": "Forza Horizon 5",
+      "version": "1.685.672",
+      "sizeBytes": 163208757248,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1221/1cdbb2177cc3c6302027f05796073b27ca7f7ccf091c3127.png",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/f8uzjge4fivd"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/Zx28Umn6tQ"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/zi4lsnD7f6"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/1jmPKiGnsi"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/QuBk44mxab"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/sMLgQ4oIfh"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/z4nkOxRgG0"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/IjLoLabCMV"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/ajmy9NG7kG"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/JdgYI0ot9s"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/6GW3SBB6KG"
+        },
+        {
+          "name": "Viki pt.10",
+          "url": "https://vikingfile.com/f/YsenO85tse"
+        },
+        {
+          "name": "Viki pt.11",
+          "url": "https://vikingfile.com/f/gYghp2f7UU"
+        },
+        {
+          "name": "Viki pt.12",
+          "url": "https://vikingfile.com/f/D114YOmjXs"
+        },
+        {
+          "name": "Viki pt.13",
+          "url": "https://vikingfile.com/f/aHVLUqUZkL"
+        },
+        {
+          "name": "Viki pt.14",
+          "url": "https://vikingfile.com/f/W38jlIdF33"
+        },
+        {
+          "name": "Viki pt.15",
+          "url": "https://vikingfile.com/f/tU98MhPW8i"
+        },
+        {
+          "name": "Viki pt.16",
+          "url": "https://vikingfile.com/f/tRSleCwNkC"
         }
       ]
     },
     {
-      "titleId": "CUSA53342",
-      "title": "Absolum",
-      "version": "1.10",
-      "sizeBytes": 4187593114,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2508/078ca2941382feb3b34ff293315c51ef1885b3015fe41cba.png",
+      "titleId": "PPSA28997",
+      "title": "God of War - Sons of Sparta",
+      "version": "01.008.001",
+      "sizeBytes": 14066017894,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/0618/213fb06ade46c1d0d6d3ba2c54c4020b451512e0c7a0e3b5.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/ca4ocqus9bim"
+          "name": "Gofile",
+          "url": "https://gofile.io/d/nzIJ2JCB"
         },
         {
           "name": "Viki",
-          "url": "https://vikingfile.com/f/qwzXUGCoL5"
+          "url": "https://vikingfile.com/f/GaQJwUeC41"
         }
       ]
     },
     {
-      "titleId": "CUSA41456",
-      "title": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
-      "version": "1.03",
-      "sizeBytes": 8912057139,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2909/1b4283865a6be75932835a58f1ea80d650dfa179872fad37.png",
+      "titleId": "PPSA26344",
+      "title": "Ghost of Yotei Complete Edition + DLC",
+      "version": "2.002",
+      "sizeBytes": 141733920768,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2723/c798a760b54171c5ac1c69343095a92c50a6f8280e9d391b.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/i3vrsb7jpz1i"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/mWCgeRC2B9"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/ok6XM3pFZp"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/AwEvUI4oJc"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/tFYqgB7bkf"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/nEdWTaLHwa"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/QdnQvfJvux"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/MGBEOPUzDS"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/rh6Ac0hSHn"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/GYmeOWVXQh"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/zrTljPUKzz"
+        },
+        {
+          "name": "Viki pt.10",
+          "url": "https://vikingfile.com/f/xE7ErKxtfI"
+        },
+        {
+          "name": "Viki pt.11",
+          "url": "https://vikingfile.com/f/eMwGUdb7Jg"
+        },
+        {
+          "name": "Viki pt.12",
+          "url": "https://vikingfile.com/f/3joL6BXXON"
+        },
+        {
+          "name": "Viki pt.13",
+          "url": "https://vikingfile.com/f/1AoYeKZTUM"
+        },
+        {
+          "name": "Viki pt.14",
+          "url": "https://vikingfile.com/f/XjlmmW3sFr"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vikingfile.com/f/SUFpiBjwU4"
         }
       ]
     },
     {
-      "titleId": "CUSA17421",
-      "title": "Fujii",
-      "version": "1.01",
-      "sizeBytes": 763430437,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0920/7056d1a6ebea4a54acb244fc4e8b29d1ede3fb0ba3304ab7.png",
+      "titleId": "PPSA16833",
+      "title": "LEGO® Batman™: Legacy of the Dark Knight",
+      "version": "01.010.000",
+      "sizeBytes": 41263898296,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1316/63c063c243da18279bee5c1bd3e9deabb0a0b535e5af650d.png",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/uvf13mpj01h8"
+          "name": "Gofile",
+          "url": "https://gofile.io/d/IdriyqKJ"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/TbsFhuS8IE"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/LSpI2JrCWT"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/oSf04q2yT4"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/ND4awV1ZJa"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/noloo0UdfP"
         }
       ]
     },
     {
-      "titleId": "CUSA15739",
-      "title": "Telefrag VR",
-      "version": "1.11",
-      "sizeBytes": 12713103196,
-      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA15739_00/2/i_27f3527d706a406cd4b6b0e3d45e409d744e39736a12660d36dc7f70093cbb5c/i/pic0.png",
+      "titleId": "PPSA33286",
+      "title": "Silent Hill Townfall",
+      "version": "2.003",
+      "sizeBytes": 61310658150,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1407/879aa64e43d91a8931fd278671494ec993f0c5f93f50f2ad.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/wou5cxznpxyo"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/cB48RPevu5"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/f66DldHRNr"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/X4jXE6U6fi"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/0m5AHX6wAS"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/k3lCzsnbHb"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/8PX6eYxopy"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/hX9WWSCg7x"
         }
       ]
     },
     {
-      "titleId": "CUSA14845",
-      "title": "Darkness Roller Coaster Ultimate Edition",
-      "version": "1.77",
-      "sizeBytes": 9771050598,
-      "posterUrl": "https://image.api.playstation.com/vulcan/img/cfn/11307PupfMWTTHB5sk-36FcFW6v1YRxICp4vlDgxUISmUWYslKjCUDWHe-ri3FPnnv260gkyo5Z-_9OOvdXeQVkA2vAOy7k8.png",
-      "downloadLinks": [
-        {
-          "name": "Data",
-          "url": "https://datanodes.to/y4w0ywzjhxdc"
-        },
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/tAZY3uWZ7c"
-        }
-      ]
-    },
-    {
-      "titleId": "CUSA11492",
-      "title": "Detached",
-      "version": "1.02",
-      "sizeBytes": 21109764260,
-      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11492_00/12/i_dc243366b3ccc9973ac7e7822dbff2e0d8d0ef0b05607ed3a315cf44ac770f8e/i/pic0.png",
-      "downloadLinks": [
-        {
-          "name": "Data",
-          "url": "https://datanodes.to/qq0ml2suoeoi"
-        },
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/EImZAf5wRr"
-        }
-      ]
-    },
-    {
-      "titleId": "CUSA09874",
-      "title": "Football Nation VR Tournament 2018",
-      "version": "1.14",
-      "sizeBytes": 7516192768,
-      "posterUrl": "https://image.api.playstation.com/cdn/UP4068/CUSA09880_00/qVw2hturo9JI8h3TvKamaDYZEbt9l7fr.png",
-      "downloadLinks": [
-        {
-          "name": "Data",
-          "url": "https://datanodes.to/g1m62o4wevah"
-        },
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/ZgN8EPmJy2"
-        }
-      ]
-    },
-    {
-      "titleId": "CUSA16049",
-      "title": "Five Nights at Freddy's Help Wanted",
-      "version": "1.22",
-      "sizeBytes": 23622320128,
-      "posterUrl": "https://image.api.playstation.com/vulcan/img/cfn/11307-0HRus_2t4H9IMsFjXlDxH1mwY-ch_aawQojHEfVSLYcNqkSg4_UykORSXRVrBngfu85Mzyi-GSeCfEYHYZnP025T_S.png",
-      "downloadLinks": [
-        {
-          "name": "Data",
-          "url": "https://datanodes.to/rdrh92xsssle"
-        },
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/tK74chyqxS"
-        }
-      ]
-    },
-    {
-      "titleId": "CUSA04606",
-      "title": "Gal Gun Double Peace Ultimate Edition",
-      "version": "1.02",
-      "sizeBytes": 6238439997,
-      "posterUrl": "https://image.api.playstation.com/vulcan/img/cfn/11307MvL3K96RARpIgLK_IxwLkFnzRNNq_QVUoLabtdpogzI3U7aJ23PhV2V0G4JmooMMoxsdwdMMs16aPXd7AI6TPQttS0Z.png",
-      "downloadLinks": [
-        {
-          "name": "Data",
-          "url": "https://datanodes.to/yj9iwv4kt8pv"
-        },
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/1vkd6pwimZ"
-        }
-      ]
-    },
-    {
-      "titleId": "CUSA11341",
-      "title": "Gal Gun 2",
-      "version": "1.02",
-      "sizeBytes": 2405181686,
-      "posterUrl": "https://image.api.playstation.com/cdn/UP4293/CUSA11346_00/ZCUXOanz03npsHzvKxtXGZvPSyhEK6iH.png",
-      "downloadLinks": [
-        {
-          "name": "Data",
-          "url": "https://datanodes.to/u9iajsnaxnv3"
-        },
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/dZs6LMHL4W"
-        }
-      ]
-    },
-    {
-      "titleId": "CUSA03067",
-      "title": "Agents of Mayhem",
-      "version": "1.05",
-      "sizeBytes": 48318382080,
-      "posterUrl": "https://image.api.playstation.com/cdn/UP2047/CUSA03132_00/z4YPfpFtKMbQhhr5x8Iwx60hKVX6WaOT.png",
-      "downloadLinks": [
-        {
-          "name": "Data",
-          "url": "https://datanodes.to/otkf7e2hw8ti"
-        },
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/iBhnha7QHo"
-        }
-      ]
-    },
-    {
-      "titleId": "CUSA11646",
-      "title": "Arca's Path",
+      "titleId": "PPSA07370",
+      "title": "Madison",
       "version": "1.0",
-      "sizeBytes": 517543559,
-      "posterUrl": "https://image.api.playstation.com/cdn/UP4363/CUSA11701_00/5nsNnl1XupuLj3EImpvBSWnY8O1slVD9.png",
+      "sizeBytes": 4155380859,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0516/Jo2Ml8Zp2063EwPKoJ54fTYt.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/7ix0h6hqbhcj"
-        },
-        {
           "name": "Viki",
-          "url": "https://vikingfile.com/f/Hekl1JFb2K"
+          "url": "https://vikingfile.com/f/igtBQ4Y5Ti"
         }
       ]
     },
     {
-      "titleId": "CUSA12741",
-      "title": "Eden Tomorrow",
-      "version": "1.03",
-      "sizeBytes": 13486197309,
-      "posterUrl": "https://image.api.playstation.com/cdn/UP2436/CUSA14340_00/okgQJdfbPy0X9RPG0MFfEnUPpQ0QGJeE.png",
+      "titleId": "PPSA01288",
+      "title": "Sackboy A Big Adventure",
+      "version": "01.14",
+      "sizeBytes": 34467112550,
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/wiqQza4TMeQXkzNLUtaty9tt.png",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/u4iw54n34pl2"
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/0voNsQqm6r"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/2vnIa4lkvz"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/w2elsoMeLo"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/F74iKp1cbb"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/1NpAAP2sSE"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/Y9HphXQg4H"
         }
       ]
     },
     {
-      "titleId": "CUSA16362",
-      "title": "The Rabbit Hole",
-      "version": "1.03",
-      "sizeBytes": 1331439862,
-      "posterUrl": "https://image.api.playstation.com/cdn/UP0458/CUSA10452_00/gdZtpjz7ySMYX7LIVWovY7XAisPBsl6i.png",
+      "titleId": "PPSA07230",
+      "title": "Assassin's Creed Mirage",
+      "version": "01.012.000",
+      "sizeBytes": 65390877082,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1718/NFf86jgU4AeVYgJBEoEKBpxW.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/b7gy1xj7sda4"
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/CjhsT3EEwI"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/m2HqKPD1Om"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/JTx7JMEEBP"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/a7uc02SboT"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/rh4SdZrvqH"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/HXji804G2g"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/XwmhYrEd4u"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/iNRXgzEgKD"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/NPodXzUumi"
         }
       ]
     },
     {
-      "titleId": "CUSA16509",
-      "title": "Apocalypse Rider",
-      "version": "1.03",
-      "sizeBytes": 1009317315,
-      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA12679_00/6/i_a94aff1f336cf06cbfee27af3780e08a05503dc4d1110c81e8f1ff2e55259a08/i/icon0.png",
+      "titleId": "PPSA02530",
+      "title": "PRAGMATA",
+      "version": "01.300.000",
+      "sizeBytes": 38010460570,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/b7ec5836e23affe26c8ad00124a1eddddab5e1bad456c03e.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/8h8eo8w6d68o"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/4x3G4SocFy"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/3scrFQ7VvR"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/yjOVz108Yf"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/b2pjCyagoH"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/Z6i1EBXTEG"
         }
       ]
     },
     {
-      "titleId": "CUSA17619",
-      "title": "Azur Lane Crosswave",
-      "version": "1.04",
-      "sizeBytes": 10136122819,
-      "posterUrl": "https://image.api.playstation.com/vulcan/img/cfn/113072ZqK6YWbX6OLrxkd92QMRBThOwYIU35MG1l7VLdHONkcf5QrLAjp6XYOo4ceCuKdv7wKbtS_wfCPByNrl8QmOknRR9o.png",
+      "titleId": "PPSA04610",
+      "title": "Elden Ring",
+      "version": "1.017",
+      "sizeBytes": 96851512525,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0902/8ew9QqHI1eLFFq5XdIOhN2Q2.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/y900wp4ir9we"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/571yTQG7Q8"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/xXPHoBZ9nm"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/mCD3RxMvty"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/qbzlviXvIt"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/PBfMtsWWz1"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/IJv6ztcDU3"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/qXz8ivqCzH"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/eGUi0ksM99"
+        },
+        {
+          "name": "Viki pt.8",
+          "url": "https://vikingfile.com/f/S1hHqEsPbs"
+        },
+        {
+          "name": "Viki pt.9",
+          "url": "https://vikingfile.com/f/NUETUWyvTi"
+        },
+        {
+          "name": "Viki pt.10",
+          "url": "https://vikingfile.com/f/52Jg72xRHw"
         }
       ]
     },
     {
-      "titleId": "CUSA23661",
-      "title": "Brain Beats",
-      "version": "1.01",
-      "sizeBytes": 1020054733,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/2112/qedn00yb5JB6DF5k1A5FNCzs.png",
+      "titleId": "PPSA17599",
+      "title": "Clair Obscur Expedition 33",
+      "version": "1.500.300",
+      "sizeBytes": 44775034061,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1011/7764db359824f321c21c26f3bc428cbc9e7b4827f09c4a0c.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/10i6w1d19dyc"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/HNWM5NWOE7"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/WEZ4Z9n42m"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/EATQaN8ocL"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/wfq9uIhVry"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/B6PYQEhifp"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/6lW770fWcg"
         }
       ]
     },
     {
-      "titleId": "CUSA29261",
-      "title": "Wraith the Oblivion Afterlife",
-      "version": "1.02",
-      "sizeBytes": 3543348019,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1215/dylGyknNZXEJk2bJAjecPcF6.jpg",
+      "titleId": "PPSA28183",
+      "title": "Assassin's Creed Black Flag Resynced",
+      "version": "1.006.038",
+      "sizeBytes": 70544837837,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/6cb70c1a621d4e6d437b95ebe9eaed83cd78d358c13fe3af.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/je9lqx8ay25h"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/eUHaHiJOgy"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/GoI7cLkMuE"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/VRjlkxBTQQ"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/31Yoq6AoU4"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/V6jc39yNoM"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/WSVgwLxZNP"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/4rxTcX5PTC"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/phi918xaZg"
         }
       ]
     },
     {
-      "titleId": "CUSA31615",
-      "title": "Super Bullet Break",
-      "version": "1.03",
-      "sizeBytes": 747324310,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202203/2414/3Rwd2verWJyjNzW1QcnCEn6k.jpg",
+      "titleId": "PPSA27836",
+      "title": "Onimusha Way of the Sword",
+      "version": "1.000.001",
+      "sizeBytes": 45311904973,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1308/3b7ab4532870cb4a7bccdfd80df7d0bebcdd842750a049d9.png",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/hdzj352cp9k6"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/SBEVY9Ezvo"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/v733fUi1xg"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/e36wN4p5z7"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/TGIXwraUpE"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/rcG98s1a98"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/P8jPssbRtE"
         }
       ]
     },
     {
-      "titleId": "CUSA17393",
-      "title": "Astroneer",
-      "version": "1.87",
-      "sizeBytes": 3350074491,
-      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202112/2003/NmTEnt5SIVRk4dHDqcydervu.png",
+      "titleId": "PPSA23566",
+      "title": "UFC 6",
+      "version": "1.005",
+      "sizeBytes": 74195560038,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2216/7cc2882c6efb6815884ef18f06e113a7871a513ccda89b32.png",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/f3n7pyddbljd"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/4AWSpm4w12"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/fqlXFEYfGU"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/3Nnj6cmzPa"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/9nckmH6C0X"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/Z3HitoMfcT"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/mFEhwq0Zkj"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/4blieJ0cqV"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/Wg1lpBTUVB"
         }
       ]
     },
     {
-      "titleId": "CUSA56821",
-      "title": "Who's at the Door",
-      "version": "1.01",
-      "sizeBytes": 3725884129,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2105/b698861f534a57c20c628c1b6fa9f376132b86567e13acb6.png",
+      "titleId": "PPSA23226",
+      "title": "Black Myth Wukong",
+      "version": "1.000.021",
+      "sizeBytes": 113816633344,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/59be402814be4dbf2ba860689f76895fc81510e615c925bd.png",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/xljjzth2faou"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/S5VglpUj5k"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/5awqsXNC0w"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/kWFkeNcQM5"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/f1EAmO5je1"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/6TZ8S5iBgK"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/AzfJVJoWKg"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/W1sVq1g32E"
         }
       ]
     },
     {
-      "titleId": "CUSA08364",
-      "title": "Okami HD",
+      "titleId": "PPSA29952",
+      "title": "Denshattack",
+      "version": "1.001",
+      "sizeBytes": 8053063680,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2810/b4fb8b8786717dd6a693782ce355a4ee9b54a9dd384e23e3.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/RmlLyZhSrr"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA29343",
+      "title": "Beast of Reincarnation Deluxe Edition",
       "version": "1.0",
-      "sizeBytes": 18253611008,
-      "posterUrl": "https://image.api.playstation.com/cdn/UP0102/CUSA08418_00/bKaklXPelfDeAe4ODKN25A63ZqOMMlhi.png",
+      "sizeBytes": 31138512896,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2203/db91bba6d10ccd925e1d33832a949659e81a1ac90d672cf8.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/1ac8x3smsjvb"
-        },
-        {
           "name": "Viki",
-          "url": "https://vikingfile.com/f/tEaJaEsuJy"
+          "url": "https://vikingfile.com/f/QiUKlrldHQ"
         }
       ]
     },
     {
-      "titleId": "CUSA06675",
-      "title": "How we Soar",
-      "version": "1.01",
-      "sizeBytes": 9341553869,
-      "posterUrl": "https://image.api.playstation.com/cdn/UP1451/CUSA06889_00/riNKbSQnpLuCIbLbUvrX00gVRDIpp4m4.png",
+      "titleId": "PPSA26136",
+      "title": "Avowed",
+      "version": "2.001",
+      "sizeBytes": 72799695667,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0816/dfa7ebd82dace4215ce51ce74e91d2f8820527cd91ef9250.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/bapv2b9fyqwu"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/NohcdyZzvV"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/QETAAixvrM"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/vmbCi6Ulpg"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/gxH4Yybk8q"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/B1qNI1q4bs"
         }
       ]
     },
     {
-      "titleId": "CUSA17093",
-      "title": "Hatsune Miku VR + Song Packs",
-      "version": "1.04",
-      "sizeBytes": 3758096384,
-      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202109/2709/8ZIcW75oyi8GMZfSgith2cN3.png",
+      "titleId": "PPSA09663",
+      "title": "Dragon's Dogma 2 + ALL DLCs",
+      "version": "4.000.001",
+      "sizeBytes": 88476326298,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1309/916b7de8938fa4ff658296086312a6cc386e5fb8c9d17275.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/nszhnr6akmnd"
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/2OsfJNEhss"
         },
         {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/Qs8zQW7OSz"
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/qYnh14Ps2h"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/VOsnc6HHd9"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/KQn9u6Oyps"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/Uy0qojdq4d"
         }
       ]
     },
     {
-      "titleId": "CUSA17678",
-      "title": "Yu Gi Oh Legacy of the Duelist Link Evolution",
-      "version": "1.01",
-      "sizeBytes": 1728724337,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0112/ZkrCJGdMnokOv6tzAlTsdYFV.png",
+      "titleId": "PPSA30601",
+      "title": "Resonance: A Plague Tale Legacy",
+      "version": "1.002",
+      "sizeBytes": 67860483277,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1510/edbe267fc70626ec1f21fd9c7540ac1645e218ff9e4c3019.jpg",
       "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/dmdbbi0u438b"
-        },
-        {
           "name": "Viki",
-          "url": "https://vikingfile.com/f/lSRGvJ2Wrl"
+          "url": "https://vikingfile.com/f/0CNxNMtyUu"
         }
       ]
     },
     {
-      "titleId": "CUSA58609",
-      "title": "TCG Card Shop Simulator",
-      "version": "1.05",
-      "sizeBytes": 1664299827,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1923/86dc3c8f50a2697d2b6cfaa6f7e3ddb68cac7e54b1419892.png",
+      "titleId": "PPSA32259",
+      "title": "Abyssus",
+      "version": "2.000.005",
+      "sizeBytes": 5368709120,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2915/45fda97856c467add252d18c18e435f916d06471f340e8a0.jpg",
       "downloadLinks": [
         {
-          "name": "Vik1",
-          "url": "https://vikingfile.com/f/BBeSXFqIn7"
-        },
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/BS2A46WLJC"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13197",
+      "title": "Stellar Blade Complete Edition",
+      "version": "1.014.001",
+      "sizeBytes": 40157944218,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
+      "downloadLinks": [
         {
-          "name": "Data",
-          "url": "https://datanodes.to/t0y1koru7dmq"
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/BNgeKDXD1Q"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28502",
+      "title": "Pure Pool Pro",
+      "version": "1.011",
+      "sizeBytes": 15032385536,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2015/a26878b83b9c41f207389c5e6f25d3cda2ab6d2f28fcfd0b.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/hfe1bktQaq"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17525",
+      "title": "Gears of War Reloaded",
+      "version": "1.008.001",
+      "sizeBytes": 65498251264,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2818/65c55d8745cd383304d6d60619d3be97c3f56ded6f058291.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/frEF7v6LBV"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA11386",
+      "title": "007 First Light",
+      "version": "1.018",
+      "sizeBytes": 50573239910,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0213/debbad276447e7d6accd27a3445c8dd9d8635ed78ca6d4bd.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/n5CG8eldcg"
         },
         {
           "name": "Viki",
-          "url": "https://vikingfile.com/f/KJnWxbeesS"
+          "url": "https://vikingfile.com/f/NlSTPuCRNN"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03846",
+      "title": "Dead Space Deluxe Edition",
+      "version": "1.000.006",
+      "sizeBytes": 32104880538,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/MD84ksvVU3KZL5fqeS8iOdaw.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/qSnovksCpI"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA01903",
+      "title": "Final Fantasy VII Remakes + DLCs",
+      "version": "1.005",
+      "sizeBytes": 107374182400,
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/cfn/11307-dNapclgq_VqNtQ98Xp_LxovvAdjd5AknZhd_-k2Cckq9FPtKDXAHk-ODCfvDKChH6hkEO0VLtj7Vk4E-Z8G707oe0N.png",
+      "downloadLinks": [
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/IDFT5RQx92"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/OcyyTZichH"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/yOnCoSTDAj"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/E9f52kqBgr"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/BdJ38f80wb"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA31544",
+      "title": "Final Fantasy Resonance",
+      "version": "1.000.001",
+      "sizeBytes": 14066017894,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/3a5b644daaf4b0885cacc7a56fc91765ee7635dc55c8962e.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/HJWSrIPhTO"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA04027",
+      "title": "Cyberpunk 2077 + Phantom Liberty",
+      "version": "2.31",
+      "sizeBytes": 129922760704,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/6bAF2VVEamgKclalI0oBnoAe.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/qXLMfnrolR"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/EumvpioYOg"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/sV7GnmRFMa"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/MITDwWp0pY"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/JiAIHsOHHa"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/USssMKdqtn"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/nzqIjwcEKe"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13446",
+      "title": "Aphelion",
+      "version": "1.003",
+      "sizeBytes": 25769803776,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2416/d055a1918df5d7fc3f2218878840e4d45c6c6c474daa21b5.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/DTfLHotuCU"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07631",
+      "title": "Saros",
+      "version": "1.005.002",
+      "sizeBytes": 85899345920,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2318/89c3538003fb34870e745493412408eeeed5f02b32c55d23.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/FflO4M8bW1"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/FoLOfSQGoR"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA30391",
+      "title": "Alien Rogue: Incursion Evolved Edition Part One",
+      "version": "1.000.009",
+      "sizeBytes": 13958643712,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0600/bbfa7883bab4670175da783f706ecc34e61f945863ab1f52.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/dCa21y8Zir"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA29264",
+      "title": "Duskfade",
+      "version": "1.006",
+      "sizeBytes": 14066017894,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0314/3574cdca93638a0ccd10f5f30c4f5b81b96391a07e216d81.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/OHyDylaV1z"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24701",
+      "title": "Digimon Story Time Stranger + DLCs",
+      "version": "1.000.011",
+      "sizeBytes": 21796959027,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1318/4b7994e18a27cf87e3ca8c79ed3fc5f5fa32bece7032c8c0.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/83FnJhLpT9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34547",
+      "title": "Control Resonant",
+      "version": "1.300.300",
+      "sizeBytes": 89442693939,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2212/a30316cd25cb98a4942e75b4c612cdfead3cb10c008c55b9.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/GCgu72YbJ9"
         }
       ]
     }

@@ -2,6 +2,40 @@
   "name": "GFS Catalog-zstd",
   "packages": [
     {
+      "titleId": "PPSA14404",
+      "title": "Metal Gear Solid 3 Snake Eater Master Collection",
+      "version": "3.000.002",
+      "sizeBytes": 50648401838,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1313/e8228bedd1a32cce249849dea352e458f70a1a09ce4bd760.jpg",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/f57q3s9dzl9y"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/2a2fluBGHi"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA10662",
+      "title": "The Last of Us 2 Remastered",
+      "version": "1.002",
+      "sizeBytes": 93093416141,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/7f1d9478fabee95562ace660b90e89b0d87a620e1950874a.png",
+      "downloadLinks": [
+        {
+          "name": "Data",
+          "url": "https://datanodes.to/1gwdlhi79m61"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/XoEWAAn9nT"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA28000",
       "title": "The Blood of Dawnwalker",
       "version": "1.005",
